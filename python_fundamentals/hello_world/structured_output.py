@@ -10,4 +10,4 @@ pi_value = math.pi
 print(f"Pi approx: {pi_value:.2f}")
 
 computation_valid = pi_value > 3
-print(f"Computation valid: {computation_valid}")cd
+print(f"Computation valid: {computation_valid}")
