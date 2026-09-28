@@ -13,12 +13,16 @@ By the end of this project, you should be able to:
 
 #### Resources
 
-    Python Tutorial — Defining Functions https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+    Python Tutorial — Defining Functions 
+    <https://docs.python.org/3/tutorial/controlflow.html#defining-function>s
 
-    Python Tutorial — Modules https://docs.python.org/3/tutorial/modules.html
+    Python Tutorial — Modules
+    <https://docs.python.org/3/tutorial/modules.html>
 
-    Python Reference — __name__ https://docs.python.org/3/library/main.html
+    Python Reference — __name__ 
+    <https://docs.python.org/3/library/main.html>
 
-    PEP8 Style Guide https://peps.python.org/pep-0008/
+    PEP8 Style Guide 
+    <https://peps.python.org/pep-0008/>
 
 
