@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # print alpha except q and e
 for i in range(97, 123):
     if i != 113 and i != 101:
