@@ -14,6 +14,7 @@ By the end of this project, you should be able to:
 #### Resources
 
     Python Tutorial — Defining Functions 
+    [Visit GitHub](https://github.com) 
     <https://docs.python.org/3/tutorial/controlflow.html#defining-function>s
 
     Python Tutorial — Modules
