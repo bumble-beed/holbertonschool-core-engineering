@@ -1,4 +1,4 @@
-# Python - Interpreter, Scripts and Environments
+# Python - Environment & First Programs
 
 Holberton School, Full-Stack Software Engineer program (Cohort 29).
 
