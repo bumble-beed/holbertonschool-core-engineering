@@ -43,7 +43,7 @@ python_fundamentals/
     └── ...                         #    task scripts
 ```
 
-Read top to bottom: each project builds on the one above it.
+*Read top to bottom: each project builds on the one above it.*
 
 ### Author
 
