@@ -1,4 +1,4 @@
-Introduction and Context
+## Introduction and Context
 
 Working with input and output is a fundamental aspect of programming, as it allows programs to interact with external data sources and persist information beyond execution. In Python, this typically involves reading from and writing to files.
 
